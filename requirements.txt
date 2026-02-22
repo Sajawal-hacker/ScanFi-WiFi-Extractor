@@ -1,0 +1,5 @@
+customtkinter
+psutil
+reportlab
+pandas
+openpyxl
