@@ -21,7 +21,7 @@
 ### Main GUI
 ![GUI Screenshot](assets/screenshot1.jpg)
 
-### Optional Animation
+### Result
 ![Scanning Animation](assets/screenshot2.jpg)
 
 ---
